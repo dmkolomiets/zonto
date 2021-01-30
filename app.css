@@ -1,0 +1,24 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+.promo {
+    background: url(img/map.png) no-repeat 50%/auto;
+    min-height: 596px;
+}
+
+.massage {
+    margin: auto;
+    padding: 170px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 2;
+    max-width: 700px;
+    text-align: center;
+}
+
+.mail {
+    display: block;
+    margin-top: 20px;
+}
